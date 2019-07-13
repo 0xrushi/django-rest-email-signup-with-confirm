@@ -1,0 +1,1 @@
+# django-rest-email-signup-with-confirm
